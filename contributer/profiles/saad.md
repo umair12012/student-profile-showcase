@@ -1,13 +1,9 @@
 # 👤 Full Name
 
-> 📌 A short tagline or quote (optional)
-
----
+> M Saad Khan 
 
 ## 🎓 Field of Study
-e.g., B.Sc. in Computer Science, Mechanical Engineering, Business Administration, etc.
-
----
+> BS of Computer Science
 
 ## 🧾 Short Bio
 
@@ -62,3 +58,4 @@ If you want others to reach out (e.g., for collaboration), share a professional 
 📧 yourname@email.com
 
 ---
+
