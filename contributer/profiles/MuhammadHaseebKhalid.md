@@ -11,7 +11,7 @@ B.Sc. in Computer Science, D.A.E in C.I.T etc.
 
 ## 🧾 Short Bio
 
-Write a short paragraph (3–5 sentences) about yourself. Mention your academic background, interests, current learning goals, or anything that helps others understand your professional journey.
+Computer Science graduate skilled in full-stack development with hands-on experience in modern web/mobile technologies. Passionate about exploring AI, blockchain, and startup ecosystems. Currently focused on mastering agentic AI systems while contributing to open-source projects.
 
 ---
 
@@ -38,7 +38,7 @@ List your key skills or technologies you are learning.
 
 - [GitHub](https://github.com/A-Haseeb-Dev)
 - [LinkedIn](https://linkedin.com/in/Muhammad-Haseeb-Khalid)
-- [Portfolio Website](https://yourwebsite.com) *(optional)*
+- [Portfolio Website](https://portfolio-in-react-with-theme-j14a.vercel.app/)
 
 ---
 
