@@ -1,4 +1,4 @@
-# 👤 Touseef
+# 👤 Touseef Hanif
 
 > 📌 Exploring IT
 
