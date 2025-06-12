@@ -32,8 +32,6 @@ sales and marketing in pharma industry also trying to explore IT
 ## 🚀 Projects or Contributions
 
 Not Yet
-- 📂 **Project Name** – Short description of what it does and the tech used.
-- 📂 **Another Project** – Description or link to the GitHub repo.
 
 ---
 
