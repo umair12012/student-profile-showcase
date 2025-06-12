@@ -1,11 +1,11 @@
-# 👤 Full Name
+# 👤 Muhammad Haseeb Khalid
 
 > 📌 A short tagline or quote (optional)
 
 ---
 
 ## 🎓 Field of Study
-e.g., B.Sc. in Computer Science, Mechanical Engineering, Business Administration, etc.
+B.Sc. in Computer Science, D.A.E in C.I.T etc.
 
 ---
 
@@ -21,16 +21,17 @@ List your key skills or technologies you are learning.
 
 - Python
 - HTML & CSS
+- Javascript
+- Javascript
 - Public Speaking
-- Data Analysis
 - Team Collaboration
 
 ---
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [GitHub](https://github.com/A-Haseeb-Dev)
+- [LinkedIn](https://linkedin.com/in/Muhammad-haseeb-khalid)
 - [Portfolio Website](https://yourwebsite.com) *(optional)*
 
 ---
@@ -50,7 +51,7 @@ List topics or industries you are curious about or planning to explore.
 
 - Artificial Intelligence
 - Web Development
-- Digital Marketing
+- BlockChain
 - Startups & Entrepreneurship
 
 ---
@@ -59,7 +60,7 @@ List topics or industries you are curious about or planning to explore.
 
 If you want others to reach out (e.g., for collaboration), share a professional email:
 
-📧 yourname@email.com
+📧 muhammadhaseebkhalid029@email.com
 
 ---
 
