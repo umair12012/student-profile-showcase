@@ -1,11 +1,11 @@
 # 👤 Muhammad Umair
 
-> 📌 A short tagline or quote (optional)
+ 📌 "Code, Learn, Build – One step at a time"
 
 ---
 
 ## 🎓 Field of Study
-e.g., B.Sc. in Computer Science, Mechanical Engineering, Business Administration, etc.
+Governor Sindh AI Student SMIT
 
 ---
 
@@ -29,9 +29,8 @@ List your key skills or technologies you are learning.
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/muhammadumair-dev/student-profile-showcase)
-- [LinkedIn](linkdin)
-- [Portfolio Website](https://yourwebsite.com) *(optional)*
+- GitHub:https://github.com/muhammadumair-dev/student-profile-showcase
+- LinkedIn:https://www.linkedin.com/in/muhammad-umair-ali-853a63352/
 
 ---
 
